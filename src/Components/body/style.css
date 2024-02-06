@@ -1,0 +1,23 @@
+.bodyContainer {
+    background-color: #11009E;
+    padding: 20px;
+    text-align: center;
+  }
+.bodyContainer p {
+    color: #FFFFFF;
+}  
+
+.bodyContainer button{
+    color: #11009E;
+    padding: 4px;
+    border-radius: 25px;
+    width: 120px;
+    border: none;
+    font-weight: bold; 
+}
+.span{
+    color: #FDE767;
+}
+.bodyContainer h1{
+    color: #FFFFFF;
+}

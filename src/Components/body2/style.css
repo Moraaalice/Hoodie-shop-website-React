@@ -1,0 +1,28 @@
+.images-container {
+    display: flex; /* Use flexbox to arrange images in a row */
+    justify-content: center; /* Center the images horizontally */
+    align-items: center; /* Center the images vertically */
+    background-color: #A9A9A9;
+  }
+  
+  .image-wrapper {
+    margin: 0 10px; /* Adjust margin between images */
+  }
+  
+  img {
+    width: 300px; /* Set a fixed width for all images */
+    height: auto; /* Maintain aspect ratio */
+  }
+
+  .icon-containers {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+ 
+  
+      
+  
+
+
+  
